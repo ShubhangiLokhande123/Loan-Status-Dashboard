@@ -1,5 +1,7 @@
 # Loan-Status-Dashboard
-<a href="https://github.com/fabfabit/MyStuff_public/blob/master/files/ProjMarr_slides.pdf" class="image fit" >
+<a href="https://github.com/ShubhangiLokhande123/Loan-Status-Dashboard/blob/main/Loan%20Dashboard.pdf" class="image fit" ></a>
+<img src="https://github.com/ShubhangiLokhande123/Loan-Status-Dashboard/blob/main/Loan%20Dashboard.pdf" width="1050" height="200" allow="autoplay">
+
 This dashboard is build using PowerBI tool.
 
 We can find out some inferences about good loans and bad loans using this dashboard, such as-
