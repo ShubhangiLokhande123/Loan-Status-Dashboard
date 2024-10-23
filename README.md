@@ -1,4 +1,6 @@
 # Loan-Status-Dashboard
+<img width="250" alt="Coding" src="https://github.com/ShubhangiLokhande123/Blinkit_PowerBI_Dashboard/blob/main/blinkit.jpeg">
+
 This dashboard is build using PowerBI tool.
 
 We can find out some inferences about good loans and bad loans using this dashboard, such as-
