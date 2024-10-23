@@ -1,7 +1,7 @@
-# Loan-Status-Dashboard
+# Loan Status Dashboard
 
-<img src="" width="1050" height="200" allow="autoplay">
-![Loan Dashboard](visuals/loan.png)
+<img src="https://github.com/ShubhangiLokhande123/Loan-Status-Dashboard/blob/main/loan.png" allow="autoplay">
+
 
 This dashboard is build using PowerBI tool.
 
