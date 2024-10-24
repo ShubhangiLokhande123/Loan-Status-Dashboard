@@ -1,5 +1,7 @@
 # Loan Status Dashboard
 
+This Loan Status Dashboard provides a comprehensive overview of the performance and trends in loan statuses across various categories. It visualizes key metrics such as loan performance based on employment title, term length, employment duration, and loan grade. The dashboard aims to help financial analysts, loan officers, and stakeholders identify patterns in loan performance, understand risk factors associated with bad loans, and make data-driven decisions.
+
 <img src="https://github.com/ShubhangiLokhande123/Loan-Status-Dashboard/blob/main/loan.png" allow="autoplay">
 
 
